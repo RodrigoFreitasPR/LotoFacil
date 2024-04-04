@@ -1,5 +1,5 @@
-
 #LotoFacil
+
 Este é um programa simples em Java que simula um jogo de loteria com três opções de apostas diferentes. O programa permite que o usuário escolha entre as seguintes opções de aposta:
 
 Apostar de 0 a 100: O usuário pode digitar um número entre 0 e 100 e tem a chance de ganhar R$ 1.000,00 se o número digitado for igual ao número sorteado aleatoriamente.
