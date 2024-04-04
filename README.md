@@ -5,12 +5,15 @@ Bem-vindo ao Menu Lotofácil! Este é um programa simples em Java para gerenciar
 
 ## Funcionalidades
 
-O Menu Lotofácil oferece as seguintes funcionalidades:
+O Menu Lotofácil oferece as seguintes funcionalidades.
 
-1. **Gerar Apostas Aleatórias de numero inteiros de 0 a 100:
-2. **Registrar Apostas com letras, definindo uma como padrão de A a Z:
-3. **Realizar Sorteio quando o número escolhido seja Par:
-0. **Finaliza o programa de aposta:
+ **Gerar Apostas Aleatórias de numero inteiros de 0 a 100.
+
+ **Registrar Apostas com letras, definindo uma como padrão de A a Z.
+
+ **Realizar Sorteio quando o número escolhido seja Par.
+
+ **Finalizar o programa de aposta.
 
 ## Como Usar
 
@@ -22,9 +25,12 @@ O Menu Lotofácil oferece as seguintes funcionalidades:
 
       MENU LOTO FACIL 
  1 - Apostar de 0 a 100
+ 
  2 - Apostar de A à Z
+ 
  3 - Apostar em par ou ímpar
- 0 - Sair do programa
+ 
+ 0- Sair do programa
 
  Digite uma Opção: 1
  
